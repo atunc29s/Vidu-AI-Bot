@@ -1,3 +1,5 @@
+# Terms Of Service
+
 **Last Updated: August 1, 2025**
 
 ---
@@ -105,7 +107,7 @@ https://discord.gg/FVYNmCmUEh
 
 ---
 
-
+# Privacy Policy
 
 **Last Updated: August 1, 2025**
 
